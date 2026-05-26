@@ -7,3 +7,7 @@ docker container unpause apache
 docker container stop apache
 docker container rm apache
 docker image rm httpd
+
+
+ZAD 2
+docker build app
